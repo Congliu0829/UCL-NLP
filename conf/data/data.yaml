@@ -1,0 +1,10 @@
+# store data path
+store_path: /Users/congliu/Desktop/xsum_data
+# overwrite dataset
+overwrite: True
+# analysis path
+analysis_path: /Users/congliu/Desktop/analysis
+# data max length
+max_length: 1000
+# data min length
+min_length: 50
